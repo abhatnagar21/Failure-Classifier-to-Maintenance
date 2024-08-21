@@ -22,17 +22,32 @@ The dataset comprises 10,000 entries, with no missing or duplicated values.
 
 **1. Data Exploration**
 
-**Loading the Data:** The data is loaded into a Pandas DataFrame for further analysis.
-****Initial Data Inspection**: **The dataset's structure, data types, and basic statistics are explored.
-**Checking for Missing Values:** Ensured that there are no missing or duplicated entries in the data.
+**Loading the Data:** 
+The data is loaded into a Pandas DataFrame for further analysis.
+****Initial Data Inspection**:
+**The dataset's structure, data types, and basic statistics are explored.
+**Checking for Missing Values:** 
+Ensured that there are no missing or duplicated entries in the data.
+
 **2. Data Preprocessing**
-**Feature Engineering:** Relevant features are created or transformed to better suit the modeling process.
-**Data Normalization/Standardization:** Applied normalization techniques if required.
+
+**Feature Engineering:** 
+Relevant features are created or transformed to better suit the modeling process.
+**Data Normalization/Standardization:** 
+Applied normalization techniques if required.
+
 **3. Predictive Modeling**
-**Model Selection:** A variety of machine learning models are considered for predicting machine failures.
-**Model Training:** The selected model is trained on the prepared dataset.
-**Model Evaluation:** The performance of the model is evaluated using appropriate metrics.
+
+**Model Selection:** 
+A variety of machine learning models are considered for predicting machine failures.
+**Model Training:**
+The selected model is trained on the prepared dataset.
+**Model Evaluation:** 
+The performance of the model is evaluated using appropriate metrics.
 
 **4. Results and Visualization**
-**Results Interpretation: **The outcomes of the predictive models are analyzed to derive actionable insights.
-**Visualization:** Graphical representations of data trends, model predictions, and other relevant information are presented.
+
+****Results Interpretation:**
+**The outcomes of the predictive models are analyzed to derive actionable insights.
+**Visualization:**
+Graphical representations of data trends, model predictions, and other relevant information are presented.
